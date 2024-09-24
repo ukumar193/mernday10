@@ -1,0 +1,33 @@
+.maindiv{
+    background-color: rgb(255, 160, 122);
+     width: 300px;
+     height: 700px;
+     padding: 25px;
+     margin: 25px;
+    border-radius: 21px;
+    border:12px double red; 
+     display:inline-block;
+
+}
+   
+h3{
+    color: blueviolet;
+}
+.gukeshdiv{
+   background-color: hsl(80, 61%, 70%);
+   border: 12px inset hotpink;
+
+}
+
+.div2{
+    background-color: rgb(255, 217, 0);
+   border: 12px ridge hotpink;
+}
+.div3{
+    background-color: gray;
+   border: 12px groove hsl(30, 100%, 88%);
+}
+.div4{
+    background-color:violet;
+   border: 12px dashed rgb(125, 125, 125);
+}
